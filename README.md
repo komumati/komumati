@@ -13,4 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Obecnie pracuję nad projektem gry Portal2d w ramach zajęć na AGH.
+### Hi, I'm Mateusz.
+
+### About me:
+
+I'm currently studying Computer Science and Inteligent Systems at AGH University of Science and Technology. I like math, eletronics and AI.
+
+### Projects:
+
+I'm working on a 2d rouge game written in pygame.
+
+### Contact:
+* email: mateuszkotarba1@gmail.com
