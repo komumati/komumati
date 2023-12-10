@@ -27,5 +27,10 @@ I'm working on a 2d rouge game written in pygame.
 
 https://komumati.github.io
 
+### Fork:
+
+Link to forked repository: https://github.com/komumati/Dissertate
+Link to the paper: https://physics.paperswithcode.com/paper/classification-and-construction-of
+
 ### Contact:
 * email: mateuszkotarba1@gmail.com
